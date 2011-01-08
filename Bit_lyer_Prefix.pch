@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Bit.lyer' target in the 'Bit.lyer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
