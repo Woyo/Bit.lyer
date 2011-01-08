@@ -1,0 +1,5 @@
+Bit.lyer
+
+Extremely simple cocoa sample-app to shorten URLs using bit.ly service by textfield on itself, system-wide pasteboard, or safari's current page.
+
+Use XCode to build this project.
